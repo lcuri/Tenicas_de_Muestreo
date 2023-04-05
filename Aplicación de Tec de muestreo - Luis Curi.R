@@ -399,7 +399,7 @@ mean(na.omit(base_P$C3_P4)) #POBLACION
 
 ###################################################################################.
 #Se puede concluir entonces que las estimaciones mas precisas corresponden al muestreo 
-##estratificado.Basado en las cercania del resultado poblacional a al error standar que se escuentra en cadda s¿estimacion
+##estratificado.Basado en las cercania del resultado poblacional a al error estandar que se escuentra en cada estimacion
 
 
                                                                             #  ....fin
